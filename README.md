@@ -9,7 +9,7 @@ This is a template project for setting up a Playwright framework with Java, Mave
 1. Create a new repository using this template or clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/simplytest/template-java-playwright-pageobject.git
+   git clone https://github.com/niteshjain007/Playwright-Java-Pageobject.git
    ```
 2. Navigate to the project directory
 
